@@ -1,3 +1,14 @@
+    /*  
+     * FAN-DETC-Sensor-TYPE-CERO  
+     * Conversion logic for inverter refrigerators  
+     * Version: 1.2.4  
+     * Last Update: 20/03/2025 20:32  
+     *  
+     * Autor: Richard Mequert (Zerous)       
+     * Licencia: Apache 2.0  
+     */
+
+
 #define VOLTAJE_PIN D5         // Pin de detección de 12V (HIGH = voltaje presente)
 #define RELAY_PIN D6           // Salida del relé
 #define LED_ONBOARD D4         // LED integrado (lógica invertida)
