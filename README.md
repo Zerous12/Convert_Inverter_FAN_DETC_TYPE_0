@@ -1,0 +1,1 @@
+# Convert_Inverter_FAN_DETC_TYPE_0
